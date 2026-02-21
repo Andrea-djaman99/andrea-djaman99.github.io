@@ -1,4 +1,6 @@
-<!DOCTYPE html>
+`git add .
+git commit -m "Suppression hero-label"
+git push<!DOCTYPE html>
 <html lang="fr">
 <head>
 <meta charset="UTF-8">
@@ -31,6 +33,7 @@
   <div class="hero-glow2"></div>
 
   <div class="hero-left">
+    <p class="hero-label">// Portfolio 2026</p>
     <div class="hero-name">Andrea</div>
     <div class="hero-name-italic">Djaman</div>
     <p class="hero-title">✦ Développeuse Android ✦</p>
